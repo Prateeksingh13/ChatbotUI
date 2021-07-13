@@ -20,7 +20,7 @@ const Chatbot = () => {
             <img class="icon" src={robot}/>
                <div class="out">Frequently Asked Question?</div>
                <div class="firstline">
-                 <button><h2>Can I redeem my FB before the original term?</h2></button>
+                 <button>Can I redeem my FB before the original term?</button>
                </div>
                <div class="firstline">
                   <button type="submit">do I pay my Credit Card bill?</button>
